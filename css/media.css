@@ -68,6 +68,9 @@
     .footer_link {
         padding: 9px 30px;
     }
+    .mainThree_text {
+        font-size: 30px;
+    }
 }
 
 @media screen and (max-width:310px) {
